@@ -13,6 +13,10 @@
                     <input type="text" class="form-control" name="firstname" placeholder="firstname">
                 </div>
                 <div class="form-group">
+                    <label for="lastname">lastname</label>
+                    <input type="text" class="form-control" name="firstname" placeholder="lastname">
+                </div>
+                <div class="form-group">
                     <label for="gender">Gender</label>
                     <select name="gender" class="form-control">
                         <option value="men">men</option>
@@ -22,7 +26,7 @@
                 <div class="form-group">
                     <div class="checkbox">
                       <label>
-                        <input type="checkbox" name="newsletter" value="yes"> suscribe to newsletter
+                        <input type="checkbox" name="newsletter" value="abonné"> suscribe to newsletter
                       </label>
                     </div>
                 </div>
